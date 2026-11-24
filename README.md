@@ -1,52 +1,54 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151218,35:51345f,70:9265b5,100:d88ca5&height=240&section=header&text=GUILHERME%20BONIN&fontSize=40&fontColor=F5E8EE&animation=fadeIn&fontAlignY=35&desc=THE%20ART%20OF%20DEVELOPMENT&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:151218,35:51345f,70:9265b5,100:d88ca5&height=240&section=header&text=GUILHERME%20BONIN&fontSize=40&fontColor=F5E8EE&animation=fadeIn&fontAlignY=35&desc=DESENVOLVEDOR%20WEB%20%7C%20SOLUÇÕES%20DIGITAIS&descAlignY=55&descSize=16"/>
 
-### 🌸 The Art of Development
+### 🌸 A arte do desenvolvimento
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D88CA5&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Bonin.;Web+Developer;Programming+%26+Digital+Solutions;Turning+ideas+into+digital+experiences.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=D88CA5&center=true&vCenter=true&width=750&lines=Olá%2C+eu+sou+o+Bonin!;Desenvolvedor+Web;Programação+e+Soluções+Digitais;Transformando+ideias+em+realidade.)](https://git.io/typing-svg)
 
-![Status](https://img.shields.io/badge/Status-Available_for_projects-51345F?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Brazil-9265B5?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=GuiBonin&color=d88ca5&style=flat-square)
+![Status](https://img.shields.io/badge/Status-Disponível_para_projetos-51345F?style=flat-square)
+![Localização](https://img.shields.io/badge/Localização-Brasil-9265B5?style=flat-square)
+![Visitas](https://komarev.com/ghpvc/?username=GuiBonin&color=d88ca5&style=flat-square&label=VISITAS)
 
 </div>
 
 ---
 
-## 🌸 01. About me
+## 🌸 01. Sobre mim
 
-I'm a Brazilian web developer and university student passionate about programming, technology and digital experiences.
+Sou desenvolvedor web e estudante universitário, apaixonado por programação, tecnologia e experiências digitais.
 
-My focus is creating modern, functional and responsive solutions while continuously improving my technical and creative skills.
+Meu objetivo é transformar ideias em soluções modernas, funcionais e responsivas, combinando criatividade, tecnologia e atenção aos detalhes.
+
+Busco constantemente aprimorar meus conhecimentos, explorar novas tecnologias e desenvolver projetos que proporcionem experiências digitais de qualidade.
 
 ```javascript
 const bonin = {
-    name: "Guilherme Bonin",
-    location: "Brazil",
-    role: "Web Developer",
-    interests: [
-        "Programming",
-        "Web Development",
-        "Web Hosting",
-        "Digital Solutions"
+    nome: "Guilherme Bonin",
+    localizacao: "Brasil",
+    profissao: "Desenvolvedor Web",
+    interesses: [
+        "Programação",
+        "Desenvolvimento Web",
+        "Hospedagem de Sites",
+        "Soluções Digitais"
     ],
-    available: "Freelance projects"
+    disponibilidade: "Projetos Freelance"
 };
 ```
 
 ---
 
-## 💻 02. Tech Stack
+## 💻 02. Tecnologias e ferramentas
 
 <div align="center">
 
-### Languages & Technologies
+### Linguagens e tecnologias
 
 <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark"/>
 
-### Development Tools
+### Ferramentas de desenvolvimento
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
@@ -54,51 +56,56 @@ const bonin = {
 
 ---
 
-## ✦ 03. What I create
+## ✦ 03. Áreas de atuação
 
-| Area | Focus |
+| Área | Especialidade |
 |---|---|
-| Web Development | Modern websites and landing pages |
-| Web Hosting | Deployment and website configuration |
-| Responsive Design | Functional and adaptable interfaces |
-| Digital Solutions | Personalized technology solutions |
-| Technical Support | Troubleshooting and problem solving |
+| 💻 Desenvolvimento Web | Criação de sites e landing pages |
+| 🌐 Hospedagem Web | Configuração e publicação de sites |
+| 🎨 Design Responsivo | Interfaces modernas e adaptáveis |
+| ⚙️ Soluções Digitais | Desenvolvimento de soluções personalizadas |
+| 🛠️ Suporte Técnico | Diagnóstico e resolução de problemas |
 
 ---
 
-## 🌙 04. My journey
+## 🌙 04. Minha trajetória
 
-- Developing modern digital experiences.
-- Exploring new technologies and frameworks.
-- Improving programming and design skills.
-- Building personal and freelance projects.
-- Learning something new every day.
+- Desenvolvimento de experiências digitais modernas.
+- Exploração de novas tecnologias e frameworks.
+- Aprimoramento de habilidades em programação e design.
+- Desenvolvimento de projetos pessoais e profissionais.
+- Busca constante por conhecimento e evolução técnica.
 
 ---
 
-## 📊 05. GitHub Analytics
+## 📊 05. Estatísticas do GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuiBonin&show_icons=true&bg_color=151218&title_color=D88CA5&text_color=E8B4C8&icon_color=9265B5&border_color=51345F"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GuiBonin&show_icons=true&locale=pt-br&bg_color=151218&title_color=D88CA5&text_color=E8B4C8&icon_color=9265B5&border_color=51345F"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBonin&layout=compact&bg_color=151218&title_color=D88CA5&text_color=E8B4C8&border_color=51345F"/>
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=GuiBonin&background=151218&border=51345F&stroke=9265B5&ring=D88CA5&fire=E8B4C8&currStreakNum=E8B4C8&sideNums=E8B4C8&currStreakLabel=D88CA5&sideLabels=D88CA5&dates=9265B5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiBonin&layout=compact&locale=pt-br&bg_color=151218&title_color=D88CA5&text_color=E8B4C8&border_color=51345F"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiBonin&bg_color=151218&color=E8B4C8&line=D88CA5&point=9265B5&area=true&hide_border=true"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=GuiBonin&locale=pt_BR&background=151218&border=51345F&stroke=9265B5&ring=D88CA5&fire=E8B4C8&currStreakNum=E8B4C8&sideNums=E8B4C8&currStreakLabel=D88CA5&sideLabels=D88CA5&dates=9265B5"/>
+
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GuiBonin&bg_color=151218&color=E8B4C8&line=D88CA5&point=9265B5&area=true&hide_border=true&custom_title=Gráfico%20de%20Contribuições"/>
 
 </div>
 
 ---
 
-## 💌 06. Let's connect
+## 💌 06. Entre em contato
 
 <div align="center">
+
+### Vamos desenvolver algo juntos?
+
+Estou disponível para projetos freelance, 
+parcerias e novas oportunidades profissionais.
 
 <a href="https://wa.me/5518996721108">
 <img src="https://img.shields.io/badge/WhatsApp-D88CA5?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -110,9 +117,9 @@ const bonin = {
 
 <br/><br/>
 
-Available for freelance projects and new opportunities.
+**Atendimento exclusivamente por mensagens.**
 
-Atendimento exclusivamente por mensagens.
+Não atendemos ligações.
 
 <br/>
 
